@@ -1,7 +1,7 @@
 <h1>Java Project - Merge Sort</h1>
 
 <h2>Description</h2>
-Program uses merge sort to sort a user entered array. Program also can search which index a number is located at. Utilizes BreezySwing.
+Program uses merge sort to sort a user entered array. Program also can search which index a number is located at using binary search. Utilizes BreezySwing.
 <br />
 
 
