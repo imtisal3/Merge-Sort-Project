@@ -46,6 +46,7 @@ If I enter a number not present in the list (such as 11): <br/>
 <img src="https://i.imgur.com/BuOm8v3.png" height="80%" width="80%" alt="Merge Sort Steps"/>
 <br />
 <br />
+Completed 4/06/2022
 </p>
 
 <!--
